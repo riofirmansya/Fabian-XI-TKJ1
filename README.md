@@ -13,8 +13,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            height: 100vh;ffmpeg -i
-
+            height: 100vh;
             margin: 0;
         }
         .typing-container {
@@ -25,8 +24,7 @@
 </head>
 <body>
     <div class="typing-container" id="typing-container"></div>
-    <audio src="ffmpeg -i 1c2690d1b29d558ebd41357082c53944.mp4 -vn -acodec mp3 output.mp3"
- autoplay style="display:none;"></audio>
+<audio src="https://e.top4top.io/m_3124732830.mp3" autoplay style="display:none;"></audio>
     <script>
         const lyrics = [
             { text: "Cause I'll be waiting for your love", speed: 80 },
@@ -62,4 +60,5 @@
     </script>
 </body>
 </html>
+
 
